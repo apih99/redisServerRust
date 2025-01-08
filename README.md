@@ -31,8 +31,8 @@ A lightweight Redis server implementation in Rust, supporting core Redis command
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/redis-server.git
-cd redis-server
+git clone https://github.com/apih99/redisServerRust.git
+cd redisServerRust
 ```
 
 2. Build the project:
