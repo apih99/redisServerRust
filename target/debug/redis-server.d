@@ -1,0 +1,1 @@
+C:\Project\redisServer\target\debug\redis-server.exe: C:\Project\redisServer\src\command\mod.rs C:\Project\redisServer\src\main.rs C:\Project\redisServer\src\resp\mod.rs C:\Project\redisServer\src\store\mod.rs
